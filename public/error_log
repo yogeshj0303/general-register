@@ -1,0 +1,20 @@
+[18-Dec-2024 05:23:49 UTC] PHP Fatal error:  Can't use method return value in write context in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/HomeController.php on line 86
+[23-Dec-2024 04:52:51 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:55:12 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:55:17 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:57:23 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:57:53 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:58:16 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:58:31 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:58:32 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:58:32 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:58:32 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:59:08 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 04:59:35 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/UserController.php on line 13
+[23-Dec-2024 06:16:52 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Aws\S3\S3Client" not found in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/RegisterToGramController.php on line 11
+[30-Dec-2024 10:35:15 Asia/Kolkata] PHP Fatal error:  Cannot use Aws\S3\S3Client as S3Client because the name is already in use in /home1/actthgku/e-gram.actthost.com/app/Http/Controllers/Api/UserApiController.php on line 9
+[31-Dec-2024 16:24:54 Asia/Kolkata] PHP Fatal error:  Cannot use Dompdf\Dompdf as Dompdf because the name is already in use in /home1/actthgku/e-gram.actthost.com/routes/web.php on line 26
+[13-Jan-2025 10:28:59 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.31. in /home/egram/public_html/vendor/composer/platform_check.php on line 24
+[30-Jan-2025 13:26:13 Asia/Kolkata] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Storage as Storage because the name is already in use in /home1/actthgku/general-register.actthost.com/routes/api.php on line 44
+[30-Jan-2025 13:26:33 Asia/Kolkata] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Storage as Storage because the name is already in use in /home1/actthgku/general-register.actthost.com/routes/api.php on line 44
+[30-Jan-2025 14:20:04 Asia/Kolkata] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Http\Request" not found in /home1/actthgku/general-register.actthost.com/app/Http/Controllers/UserController.php on line 18
